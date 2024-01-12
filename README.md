@@ -3,7 +3,6 @@
 ## Jan 12 2024 Planning the plan
 
 ### TODOs Brain dump 
-
 * [ ] Create a business plan
   * [ ] Define key success metrics
   * [ ] Set the timeframe
