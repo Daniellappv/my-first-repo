@@ -1,6 +1,4 @@
-# The diary of a CEO
-
-Welcome to the diary of a CEO. You will find here insights on the day-to-day plans and inspirations on how to become a CEO of a small startup. 
+# Daily journal 
 
 ## Jan 12 2024 Planning the plan
 
