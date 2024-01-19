@@ -1,5 +1,18 @@
 # DataRich Tutorial
 
+## Fenced code blocks with code highlighting
+
+const ExampleCode = () => {
+  return <div> .... </div>;
+};
+
+class Example:
+	def code(self,test):
+		return 'Code highlighter'
+
+git commit && git push
+
+
 ## Table
 
 <FlatUiTable
