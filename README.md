@@ -1,8 +1,22 @@
-# Daily journal 
+# An-Almost Daily Journal 
+
+## Jan 19
+
+### Simplifying the short term plan 
+
+* [ ] Frame the MVP
+* [ ] Set the timeline, eg. 2-3 months from now
+* [ ] Set 2-3 success metrics
+ * [ ] Eg. 5 users by X date
+* [ ] Create the backlog of issues
+ * [ ] Start assigning them to the team
+ * [ ] Schedule meetings to check progress
+* [ ] How do we market it (Marketing)
 
 ## Jan 12 2024 Planning the plan
 
 ### TODOs Brain dump 
+
 * [ ] Create a business plan
   * [ ] Define key success metrics
   * [ ] Set the timeframe
