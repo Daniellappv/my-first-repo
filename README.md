@@ -1,8 +1,18 @@
+# Hello
+
+Hello and welcome to the almost daily journal of a wannabe-a-CEO. I will be posting here filtered and unfiltered braindump insights as part of my journey of becoming the CEO of a small product startup. The initial input will be related to planning and creating the near-term roadmap and goals while getting familiarized with the actual product which is already out there and is functional. 
+
+![wannabeaceo](https://github.com/Daniellappv/my-first-repo/assets/45828069/f831a42c-0bc3-4d81-825f-c56cd4309668)
+
+# Plot twist
+
+This page is powered by the product itself. 
+
 # An-Almost Daily Journal 
 
 ## Jan 19
 
-### Simplifying the short term plan 
+### Simplifying the short-term plan 
 
 * [ ] Frame the MVP
 * [ ] Set the timeline, eg. 2-3 months from now
