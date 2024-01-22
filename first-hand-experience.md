@@ -2,9 +2,9 @@
 
 ## Fenced code blocks with code highlighting
 
-const ExampleCode = () => {
+`const ExampleCode = () => {
   return <div> .... </div>;
-};
+};`
 
 
 ## Table
