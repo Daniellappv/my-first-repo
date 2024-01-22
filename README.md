@@ -4,15 +4,21 @@ Hello and welcome to the almost daily journal of a wannabe-a-CEO. I will be post
 
 ![wannabeaceo](https://github.com/Daniellappv/my-first-repo/assets/45828069/f831a42c-0bc3-4d81-825f-c56cd4309668)
 
+Read more about this diary [here](https://diary-of-a-wannabe-ceo.datahub.io/about).
+
 # Plot twist
 
 This page is powered by the product itself. 
 
 # An-Almost Daily Journal 
 
-## Jan 19
+## Jan 22
 
-### Simplifying the short-term plan 
+* BUG: Capturing here a bug related to rendering checklists (see Jan 12 and Jan 19 notes below). TO BE FIXED.
+* QUESTION: on my way to exploring the syntax and experimenting with the product, I broke my [First hand experience page](https://diary-of-a-wannabe-ceo.datahub.io/first-hand-experience) because I had added a piece of code without backticks. I need to understand more about how this works and how it is supposed to get rendered. 
+
+
+## Jan 19 Simplifying the short-term plan 
 
 * [ ] Frame the MVP
 * [ ] Set the timeline, eg. 2-3 months from now
