@@ -10,14 +10,16 @@ Read more about this diary [here](https://diary-of-a-wannabe-ceo.datahub.io/abou
 
 This page is powered by the product itself. 
 
-# Braindump
-
 <BucketViewer
   dataMapperFn={function zo(){}}
   domain="https://ssen-smart-meter.datopian.workers.dev"
   onLoadTotalNumberOfItems={function zo(){}}
   suffix="/"
 />
+
+# Braindump
+
+
 
 ```
 <PlotlyBarChart
