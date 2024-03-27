@@ -12,33 +12,6 @@ This page is powered by the product itself.
 
 # Braindump
 
-## Testing a line chart
-
-<LineChart
-  data={[
-    [
-      '1850',
-      -0.41765878
-    ],
-    [
-      '1851',
-      -0.2333498
-    ],
-    [
-      '1852',
-      -0.22939907
-    ],
-    [
-      '1853',
-      -0.27035445
-    ],
-    [
-      '1854',
-      -0.29163003
-    ]
-  ]}
- />
-
 
 ## Jan 22
 
