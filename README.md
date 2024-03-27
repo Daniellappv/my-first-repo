@@ -12,6 +12,7 @@ This page is powered by the product itself.
 
 # Braindump
 
+```
 <PlotlyBarChart
   data={[
     {
@@ -38,6 +39,7 @@ This page is powered by the product itself.
   xAxis="year"
   yAxis="temperature"
 />
+```
 
 ## Jan 22
 
