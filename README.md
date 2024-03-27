@@ -12,6 +12,13 @@ This page is powered by the product itself.
 
 # Braindump
 
+<BucketViewer
+  dataMapperFn={function zo(){}}
+  domain="https://ssen-smart-meter.datopian.workers.dev"
+  onLoadTotalNumberOfItems={function zo(){}}
+  suffix="/"
+/>
+
 ```
 <PlotlyBarChart
   data={[
