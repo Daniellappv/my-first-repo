@@ -22,7 +22,6 @@ This page is powered by the product itself.
   }}
 />
 
-<iframe width="600" height="338" src="https://lookerstudio.google.com/embed/reporting/1ddb773f-0254-4c9c-9b5c-b70602688bb3/page/2nwRB" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
 
 ## Jan 22
 
