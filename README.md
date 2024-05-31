@@ -10,13 +10,6 @@ Read more about this diary [here](https://diary-of-a-wannabe-ceo.datahub.io/abou
 
 This page is powered by the product itself. 
 
-<BucketViewer
-  dataMapperFn={function zo(){}}
-  domain="https://ssen-smart-meter.datopian.workers.dev"
-  onLoadTotalNumberOfItems={function zo(){}}
-  suffix="/"
-/>
-
 # Tests
 
 <Iframe
@@ -29,35 +22,6 @@ This page is powered by the product itself.
   }}
 />
 
-
-```
-<PlotlyBarChart
-  data={[
-    {
-      temperature: -0.41765878,
-      year: '1850'
-    },
-    {
-      temperature: -0.2333498,
-      year: '1851'
-    },
-    {
-      temperature: -0.22939907,
-      year: '1852'
-    },
-    {
-      temperature: -0.27035445,
-      year: '1853'
-    },
-    {
-      temperature: -0.29163003,
-      year: '1854'
-    }
-  ]}
-  xAxis="year"
-  yAxis="temperature"
-/>
-```
 
 ## Jan 22
 
